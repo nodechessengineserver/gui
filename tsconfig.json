@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "amd",
+        "outFile": "gui.js"
+    },
+    "files":[
+        "config.ts",
+        "utils/misc.ts",
+        "utils/vectors.ts",
+        "utils/textencoding.ts",
+        "utils/assetloader.ts",
+        "ui/dom.ts",
+        "ui/grid.ts",
+        "ui/layereddocument.ts",
+        "globals.ts",
+        "ui/draggablewindow.ts",
+        "ui/filechooser.ts",
+        "ui/gitbrowser.ts",
+        "ui/tabpane.ts",
+        "ui/grayscale.ts",
+        "ml/neuralnet.ts",
+        "gui.ts",
+        "rocket.ts",
+        "main.ts"
+    ]
+}

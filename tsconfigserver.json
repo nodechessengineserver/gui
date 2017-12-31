@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "amd",
+        "outFile": "server.js"
+    },
+    "files":[
+        "server/head.ts",
+        "server/options.ts",
+        "server/system.ts",
+        "server/server.ts",
+        "server/main.ts"
+    ]
+}

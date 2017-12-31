@@ -1,0 +1,35 @@
+{
+  "name": "gui",
+  "version": "1.0.0",
+  "description": "Graphical User Interface",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typescriptstudies/gui.git"
+  },
+  "keywords": [
+    "graphical",
+    "user",
+    "interface"
+  ],
+  "author": "Gui Maker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typescriptstudies/gui/issues"
+  },
+  "homepage": "https://github.com/typescriptstudies/gui#readme",
+  "dependencies": {
+    "@types/mathjs": "0.0.35",
+    "@types/node": "^8.0.53",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "formidable": "^1.1.1",
+    "mathjs": "^3.18.0",
+    "ws": "^3.3.2"
+  }
+}
